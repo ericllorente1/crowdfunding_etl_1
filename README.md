@@ -44,9 +44,9 @@ Our database consisted of 4 different tables: <br/>
     - contacts <br/>
     ![contacts](Resources/contacts_table.png) <br/>
     - category <br/>
-    ![category](Resources/contacts_table.png) <br/>
+    ![category](Resources/category_table.png) <br/>
     - subcategory <br/>
-    ![subcategory](Resources/contacts_table.png) <br/>
+    ![subcategory](Resources/subcategory_table.png) <br/>
 
 ## Acknowledgements
 - How to change datatype to datetime: [Youtube](https://www.youtube.com/watch?v=eirjjyP2qcQ&t=1092s&ab_channel=CoreySchafer) <br/>
