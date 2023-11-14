@@ -39,13 +39,13 @@ For the database we choose PostgreSQL. <br/>
 ![database_erd](Resources/Project_1.png) <br/>
 
 Our database consisted of 4 different tables: <br/>
-    * campaign <br/>
+    - campaign <br/>
     ![campaign](Resources/campaign_table.png) <br/>
-    * contacts <br/>
+    - contacts <br/>
     ![contacts](Resources/contacts_table.png) <br/>
-    * category <br/>
+    - category <br/>
     ![category](Resources/contacts_table.png) <br/>
-    * subcategory <br/>
+    - subcategory <br/>
     ![subcategory](Resources/contacts_table.png) <br/>
 
 ## Acknowledgements
