@@ -28,7 +28,7 @@ All together we used python and its libraries (pandas, datetime, json), and Post
     9. Import tables in order: category.csv, subcategory.csv, contacts.csv, campaign.csv
 
 ## ETL
-
+In this project, we employed Extract, Transform, Load (ETL) processes to seamlessly manage and analyze data, ensuring its quality and relevance for our objectives. The ETL pipeline was a pivotal component of our data workflow, playing a crucial role in extracting raw data from diverse sources. Leveraging this initial extraction, we implemented a comprehensive transformation process to clean, structure, and enrich the data. This step was instrumental in standardizing formats, handling missing values, and deriving new features to enhance the dataset's usability. Finally, the Load phase involved efficiently loading the refined data into our target system or database, setting the stage for downstream analytics and reporting. The ETL methodology not only streamlined data integration but also significantly improved data accuracy and consistency, fostering a robust foundation for informed decision-making within the project.
 
 ## Database
 ![sql](https://kinsta.com/wp-content/uploads/2022/02/postgres-logo.png) <br/>
@@ -50,7 +50,7 @@ Our database consisted of 4 different tables: <br/>
 
 ## Acknowledgements
 - How to change datatype to datetime: [Youtube](https://www.youtube.com/watch?v=eirjjyP2qcQ&t=1092s&ab_channel=CoreySchafer) <br/>
-
+- How to create a data base:[Tutoring]
 
 
 
