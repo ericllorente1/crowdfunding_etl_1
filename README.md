@@ -4,16 +4,17 @@ Columbia University Bootcamp Project 2 <br/>
 ![etl_image](https://www.informatica.com/content/dam/informatica-com/en/images/misc/etl-process-explained-diagram.png) <br/>
 
 ## About 
+This project demonstrates the steps of the ETL pipeline. ETL stands for Extract, Transform and Load. Using crowd funding data, we explore three big skills in the data analysis field. <br/>
+All together we used python and its libraries (pandas, datetime, json), and Postgre SQL(PG Admin 4) to carry out all tasks. 
 
 
 
 ## Table of contents
-
-[Installation](#installation)
-[ETL](#etl)
-[Database](#database)
-[DB Schema](#schema)
-[Acknowledgements](#acknowledgements)
+[Installation](#installation) <br/>
+[ETL](#etl) <br/>
+[Database](#database) <br/>
+[DB Schema](#schema) <br/>
+[Acknowledgements](#acknowledgements) <br/>
 
 ## Installation
     1. Clone repository on local machine. 
@@ -32,15 +33,23 @@ Columbia University Bootcamp Project 2 <br/>
 ## Database
 ![sql](https://kinsta.com/wp-content/uploads/2022/02/postgres-logo.png) <br/>
 
-### Schema
+For the database we choose PostgreSQL. <br/>
 
+### Schema
 ![database_erd](Resources/Project 1.png) <br/>
 
-
-
+Our database consisted of 4 different tables: <br/>
+    *campaign <br/>
+    ![campaign](Resources/campaign_table.png) <br/>
+    *contacts <br/>
+    ![contacts](Resources/contacts_table.png) <br/>
+    *category <br/>
+    ![category](Resources/contacts_table.png) <br/>
+    *subcategory <br/>
+    ![subcategory](Resources/contacts_table.png) <br/>
 
 ## Acknowledgements
-- How to change datatype to datetime: [Youtube](https://www.youtube.com/watch?v=eirjjyP2qcQ&t=1092s&ab_channel=CoreySchafer)
+- How to change datatype to datetime: [Youtube](https://www.youtube.com/watch?v=eirjjyP2qcQ&t=1092s&ab_channel=CoreySchafer) <br/>
 
 
 
